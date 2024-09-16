@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 😸
 
-<!--
-**pedroalvarezcabral/pedroalvarezcabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Alex Vogel
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem de programação
+- Utilizo esse espaço para minha organização e compartilhar meus projetos desenvolvidos
+- ### Voce pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- alex.vogel@escola.pr.gov.br
+
+  
+
+
+![](https://media1.tenor.com/m/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif)
