@@ -1,6 +1,6 @@
 ## boas vindas ao meu perfil 😸
 
-meu nome é Alex Vogel
+meu nome é **Alex Vogel**
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem de programação
